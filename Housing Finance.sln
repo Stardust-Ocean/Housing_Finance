@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Housing Finance", "Housing Finance\Housing Finance.csproj", "{30A1C959-5FFB-4D0B-9CD5-2C101245B540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{A05D113A-4470-4CC1-89FC-5DE41D5DF909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A1C959-5FFB-4D0B-9CD5-2C101245B540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A1C959-5FFB-4D0B-9CD5-2C101245B540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A1C959-5FFB-4D0B-9CD5-2C101245B540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A1C959-5FFB-4D0B-9CD5-2C101245B540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05D113A-4470-4CC1-89FC-5DE41D5DF909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05D113A-4470-4CC1-89FC-5DE41D5DF909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05D113A-4470-4CC1-89FC-5DE41D5DF909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05D113A-4470-4CC1-89FC-5DE41D5DF909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2BF3D9-4A3D-47AB-917E-E09E03AE4AAF}
+	EndGlobalSection
+EndGlobal

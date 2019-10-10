@@ -1,0 +1,26 @@
+E:\Housing Finance\Housing Finance\bin\Debug\Housing Finance.exe.config
+E:\Housing Finance\Housing Finance\bin\Debug\Housing Finance.exe
+E:\Housing Finance\Housing Finance\bin\Debug\Housing Finance.pdb
+E:\Housing Finance\Housing Finance\bin\Debug\Common.dll
+E:\Housing Finance\Housing Finance\bin\Debug\ControlzEx.dll
+E:\Housing Finance\Housing Finance\bin\Debug\MahApps.Metro.dll
+E:\Housing Finance\Housing Finance\bin\Debug\System.Windows.Interactivity.dll
+E:\Housing Finance\Housing Finance\bin\Debug\Common.pdb
+E:\Housing Finance\Housing Finance\bin\Debug\ControlzEx.pdb
+E:\Housing Finance\Housing Finance\bin\Debug\MahApps.Metro.pdb
+E:\Housing Finance\Housing Finance\bin\Debug\MahApps.Metro.xml
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.csprojAssemblyReference.cache
+E:\Housing Finance\Housing Finance\obj\Debug\MainWindow.g.cs
+E:\Housing Finance\Housing Finance\obj\Debug\App.g.cs
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance_MarkupCompile.cache
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance_MarkupCompile.lref
+E:\Housing Finance\Housing Finance\obj\Debug\App.baml
+E:\Housing Finance\Housing Finance\obj\Debug\MainWindow.baml
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.g.resources
+E:\Housing Finance\Housing Finance\obj\Debug\Housing_Finance.Properties.Resources.resources
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.csproj.GenerateResource.cache
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.csproj.CoreCompileInputs.cache
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.csproj.CopyComplete
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.exe
+E:\Housing Finance\Housing Finance\obj\Debug\Housing Finance.pdb
+E:\Housing Finance\Housing Finance\bin\Debug\Newtonsoft.Json.dll
